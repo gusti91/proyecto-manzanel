@@ -152,8 +152,12 @@ nav div{
 
 	width:auto;
 	height: auto;
+	align-content: center;
 	
 	
 	
+ }
+ label{
+	margin-left: 60%;
  }
 
