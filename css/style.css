@@ -15,9 +15,11 @@
 
     
 }
-#grid-area nav div ul li a{
+#grid-area nav div a{
 	text-decoration: none;
 	color: bisque;
+	line-height: 5vw;
+	
 }
 
 
@@ -30,6 +32,7 @@ nav{
     background: linear-gradient(green, rgb(200, 255, 0));
     width: 20vh;
     text-align: center;
+	
     
     
     
@@ -263,6 +266,13 @@ nav div{
 		grid-gap: 30px;
 		padding: 35px 0px;
 	}
+}
+
+.flex-container-destacados .flex-item label{
+
+	font-size: 1rem;
+	color: bisque;
+	margin-left: 4rem;
 }
 
 

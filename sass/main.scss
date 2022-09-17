@@ -1,0 +1,12 @@
+nav{
+    background: tomato;
+    transition: background-color 2s;
+    div{
+        margin-top: 200%;
+    }
+}
+
+nav:hover{
+    background: steelblue;
+    
+}

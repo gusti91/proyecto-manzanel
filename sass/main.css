@@ -1,0 +1,11 @@
+nav {
+  background: tomato;
+  transition: background-color 2s;
+}
+nav div {
+  margin-top: 200%;
+}
+
+nav:hover {
+  background: steelblue;
+}/*# sourceMappingURL=main.css.map */
